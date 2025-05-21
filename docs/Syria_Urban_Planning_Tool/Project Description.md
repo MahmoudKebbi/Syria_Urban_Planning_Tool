@@ -1,6 +1,6 @@
 # Syria Smart Mobility Pipeline
 
-A data engineering project to simulate, analyze, and visualize urban traffic in Aleppo, Syria — enabling smart reconstruction, humanitarian aid optimization, and urban mobility insights in post-conflict zones where real-time data is unavailable.
+A data engineering project to simulate, analyze, and visualize urban traffic in Aleppo, Syria enabling smart reconstruction, humanitarian aid optimization, and urban mobility insights in post-conflict zones where real-time data is unavailable.
 
 ---
 
